@@ -10,7 +10,7 @@ Identifying the appropriate charging infrastructure to deploy at the right pace 
 
 ## Versions
 
-EV CHARGE is under continuing development. Documentation of all versions after v.1.0 can be found here.
+EV CHARGE is under continuing development. Documentation of all versions since v1.0 can be found here.
 
 {% assign pages = site.pages | sort: "title" | reverse %}
 {% for page in pages %}
