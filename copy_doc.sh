@@ -22,7 +22,7 @@ read -rsp $'\nPress any key to continue (or ctrl-C to exit)...\n' -n1 key
 
 DOC_RAW="documentation_raw.md"
 DOC_INT="documentation"  # intermediate file name (no extension!)
-DOC_SHARED="EV CHARGE v1.0 Model Documentation.docx"  # the file name of the shared version
+DOC_SHARED="EV CHARGE v1.1 Model Documentation.docx"  # the file name of the shared version
 
 # Load reference to the authoritative version on Teams and make a copy
 source shared_version.sh
