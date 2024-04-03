@@ -8,6 +8,8 @@ title: EV CHARGE Model Documentation
 
 Identifying the appropriate charging infrastructure to deploy at the right pace and location is key to achieving the zero-mission vehicle adoption needed to reach our climate goals. Since this is a complex task, the ICCT developed EV CHARGE: a Python-based model to assess charging infrastructure needs for light-duty vehicles (2 and 3 wheelers, passenger cars, and light commercial vehicles) at any given scale: from local (e.g. city district level) to supra-national (e.g. European Union level), for any market and at any time horizon, based on a list of required inputs. This model is intended for in-house utilization only and streamlines and standardizes charging needs assessment analyses. 
 
+EV CHARGE was first developed in 2023 by Jakob Schmidt, Marie Rajon Bernard, Gabe Hillman Alvarez, Arijit Sen, Josh Miller, and Lingzhi Jin.
+
 ## Versions
 
 EV CHARGE is under continuing development. Documentation of all versions since v1.0 can be found here.
